@@ -6,7 +6,7 @@ The script requires an api key  from [AbuseIPDB](https://www.abuseipdb.com/).
 
 ## Installation
 
-The run the script from src directory.
+run the script from src directory.
 
 ```bash
 python parser.py -f <file location>
