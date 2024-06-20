@@ -1,0 +1,56 @@
+[
+    {
+        "abuseConfidenceScore": 3,
+        "countryCode": "FR",
+        "domain": "datacamp.co.uk",
+        "hostnames": [
+            "143-244-56-50.bunnyinfra.net"
+        ],
+        "ipAddress": "143.244.56.50",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "DataCamp Limited",
+        "lastReportedAt": "2024-06-17T16:17:05+00:00",
+        "numDistinctUsers": 1,
+        "totalReports": 2,
+        "usageType": "Data Center/Web Hosting/Transit"
+    },
+    {
+        "abuseConfidenceScore": 100,
+        "countryCode": "TW",
+        "domain": "cht.com.tw",
+        "hostnames": [
+            "114-33-17-130.hinet-ip.hinet.net"
+        ],
+        "ipAddress": "114.33.17.130",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Chunghwa Telecom Co. Ltd.",
+        "lastReportedAt": "2024-06-20T12:13:30+00:00",
+        "numDistinctUsers": 27,
+        "totalReports": 127,
+        "usageType": null
+    },
+    {
+        "abuseConfidenceScore": 100,
+        "countryCode": "US",
+        "domain": "microsoft.com",
+        "hostnames": [
+            "azpdse1.stretchoid.com"
+        ],
+        "ipAddress": "4.151.218.216",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isTor": false,
+        "isWhitelisted": false,
+        "isp": "Microsoft Corporation",
+        "lastReportedAt": "2024-06-20T12:51:10+00:00",
+        "numDistinctUsers": 126,
+        "totalReports": 383,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+]

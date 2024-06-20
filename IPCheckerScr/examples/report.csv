@@ -1,0 +1,4 @@
+"ipAddress","isPublic","ipVersion","isWhitelisted","abuseConfidenceScore","countryCode","usageType","isp","domain","hostnames","isTor","totalReports","numDistinctUsers","lastReportedAt"
+"114.33.17.130","True","4","False","100","TW","","Chunghwa Telecom Co. Ltd.","cht.com.tw","['114-33-17-130.hinet-ip.hinet.net']","False","127","27","2024-06-20T12:13:30+00:00"
+"143.244.56.50","True","4","False","3","FR","Data Center/Web Hosting/Transit","DataCamp Limited","datacamp.co.uk","['143-244-56-50.bunnyinfra.net']","False","2","1","2024-06-17T16:17:05+00:00"
+"4.151.218.216","True","4","False","100","US","Data Center/Web Hosting/Transit","Microsoft Corporation","microsoft.com","['azpdse1.stretchoid.com']","False","383","126","2024-06-20T12:51:10+00:00"
