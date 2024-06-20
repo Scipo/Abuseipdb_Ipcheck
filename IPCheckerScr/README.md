@@ -2,7 +2,7 @@
 
 Ipchecker is a Python script for checking if an IP address is malicious or not. 
 
-The script uses AbuseIPDB api and registration on [AbuseIPDB](https://www.abuseipdb.com/) is required.
+The script uses a api key and registration on [AbuseIPDB](https://www.abuseipdb.com/) is required.
 
 ## Installation
 
