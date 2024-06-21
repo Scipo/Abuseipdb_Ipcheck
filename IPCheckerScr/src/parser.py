@@ -24,7 +24,6 @@ parser.add_argument("-j", "--json", help="outputs items in json format",  action
 parser.add_argument("-jl", "--jsonl", help="outputs items in json format",  action="store_true")
 parser.add_argument("-t", "--tsv", help="outputs items in tab separated values", action="store_true")
 parser.add_argument("-c", "--csv", help="outputs items in comma separated values", action="store_true")
-#parser.add_argument("-x", "--categories", help="Categories are numbers will be converted into text",  action="store_true")
 
 args = parser.parse_args()
 
@@ -49,17 +48,7 @@ def check_ip(ip,days):
                 
                 if 'errors' in response:
                     print(f"Error: {response['errors'][0]['detail']}")
-                    exit(1)
-                # else:
-                #     if args.categories:
-                #         if response['data']['totalReports'] > 0:
-                #             for report in response['data']['reports']:
-                #                 tmp_catergory = []
-                #                 category = report['categories']
-                #                 for cat in category:
-                #                     tmp_catergory.append(get_categories(cat))
-                #                 report['categories'] = tmp_catergory
-                
+                    exit(1)               
                 if response['data']['totalReports'] > 0:             
                     return response['data']
         else:
